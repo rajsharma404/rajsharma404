@@ -1,29 +1,20 @@
- <h1 align="center">Hi 👋, I'm Asif Taj</h1>
+ <h1 align="center">Hi 👋, I'm RAJ KUMAR</h1>
 
-- 🔭 I’m currently working on Flutter
+- 🔭 I’m currently working on Frontend
 - 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Flutter 
-- 📫 How to reach me: axiftaj@gmail.com
-- 😄 My website: https://thetechbrothers.net
+- 💬 Ask me anything about Frontend
+- 📫 How to reach me: indinaraj360@gmail.com
 - ⚡ Fun fact: I'm comming to teen
   
 ### Connect with me:
 <div id="badges">
-  <a href="https://github.com/axiftaj">
+  <a href="https://github.com/rajsharma404">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCzvRaprYPhvAplMK36Gu0kw">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+   <a href="https://www.linkedin.com/in/raj-sharma-171a79274/">
+    <img src="https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=Linkedin&logoColor=black" alt="LinkedIn Badge"/>
   </a>
-   <a href="https://www.instagram.com/axif_taj">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-   <a href="https://fb.com/aaxiftaj">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-   <a href="https://twitter.com/axiftaj">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+
 </div>
 
 ### Languages and Tools:
