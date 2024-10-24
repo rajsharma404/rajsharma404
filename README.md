@@ -9,10 +9,13 @@
 ### Connect with me:
 <div id="badges">
   <a href="https://github.com/rajsharma404">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/Github-purple?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
    <a href="https://www.linkedin.com/in/raj-sharma-171a79274/">
-    <img src="https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=Linkedin&logoColor=black" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Linkedin-SkyBlue?style=for-the-badge&logo=Linkedin&logoColor=black" alt="LinkedIn Badge"/>
+  </a>
+     <a href="https://www.hackerrank.com/profile/indianraj360">
+    <img src="https://img.shields.io/badge/Hackkerrank-blue?style=for-the-badge&logo=Hackerrank&logoColor=black" alt="Hackerrank Badge"/>
   </a>
 
 </div>
